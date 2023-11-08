@@ -71,7 +71,7 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 
 ```py
 
-Developed by:Pravin raj.A
+Developed by:Pravin Raj.A
 Register number: 212222240079
 
 from collections import deque
